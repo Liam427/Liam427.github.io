@@ -6,7 +6,7 @@ categories:
 tags:
  - Notebook
 last_modified_at: 2021-01-25 18:44
-layout: single
+layout: jupyter
 classes: wide
 ---
 
