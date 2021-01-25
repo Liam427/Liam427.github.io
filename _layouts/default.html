@@ -11,16 +11,7 @@
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
     {% include head.html %}
-    
-    <!-- jupyter setting -->
-    {% if site.search == true or page.layout == "jupyter" %}
-      {% include jupyter-style.html %}
-    {% endif %}
-
-    <!-- mathjax 추가 -->
-    {% if page.use_math %}
-      {% include mathjax_support.html %}
-    {% endif %}
+    {% include head/custom.html %}
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -28,10 +19,6 @@
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
 
-    <!-- jupyter setting -->
-    {% if site.search == true or page.layout == "jupyter" %}
-      {% include jupyter-style.html %}
-    {% endif %}
 
     <div class="initial-content">
       {{ content }}
