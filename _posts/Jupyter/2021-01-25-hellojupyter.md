@@ -1,12 +1,12 @@
 ---
-title: "jupyter test 3"
+title: "jupyter test 4"
 search: true
 categories:
  - Notebook
 tags:
  - Notebook
 last_modified_at: 2021-01-25 18:44
-layout: jupyter
+layout: single
 classes: wide
 ---
 
