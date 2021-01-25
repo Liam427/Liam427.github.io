@@ -1,5 +1,5 @@
 ---
-title: "첫번째 통계학 - 이항분포"
+title: "첫번째 통계학 - 연속확률변수의 확률분포함수"
 layout: single
 use_math: true
 author_profile: true
