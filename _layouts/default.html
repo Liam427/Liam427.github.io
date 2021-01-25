@@ -14,7 +14,7 @@
     
     <!-- jupyter setting -->
     {% if site.search == true or page.layout == "jupyter" %}
-      {% include jupyter-style.md %}
+      {% include jupyter-style.html %}
     {% endif %}
 
     <!-- mathjax 추가 -->
@@ -27,6 +27,11 @@
     {% include_cached skip-links.html %}
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
+
+    <!-- jupyter setting -->
+    {% if site.search == true or page.layout == "jupyter" %}
+      {% include jupyter-style.html %}
+    {% endif %}
 
     <div class="initial-content">
       {{ content }}
