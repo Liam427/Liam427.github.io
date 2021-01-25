@@ -11,6 +11,11 @@
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
     {% include head.html %}
+    
+    <!-- jupyter setting-->
+    {% if site.search == true or page.layout == "jupyter" %}
+      {% include jupyter-style.html %}
+    {% endif %}
 
     <!-- mathjax 추가 -->
     {% if page.use_math %}
@@ -44,5 +49,3 @@
 
   </body>
 </html>
-
-<script data-ad-client="ca-pub-4490902440942770" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
