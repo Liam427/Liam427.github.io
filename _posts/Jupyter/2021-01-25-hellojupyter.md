@@ -1,6 +1,6 @@
 ---
 title: "Jupyter test"
-layout: single
+layout: jupyter
 use_math: true
 author_profile: true
 read_time: true
