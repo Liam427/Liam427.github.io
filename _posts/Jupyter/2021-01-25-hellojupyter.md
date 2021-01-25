@@ -1,6 +1,6 @@
 ---
 title: "Jupyter test"
-layout: jupyter
+layout: single
 classes: wide
 search: true
 use_math: true
