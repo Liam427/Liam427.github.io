@@ -1,18 +1,13 @@
 ---
-title: "Jupyter test"
-layout: single
-classes: wide
+title: "jupyter test"
 search: true
-use_math: true
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
 categories:
-    - Jupyter
-tag:
-    - Jupyter
+ - Notebook
+tags:
+ - Notebook
+last_modified_at: 2021-01-25 18:44
+layout: jupyter
+classes: wide
 ---
 
 # Hello Jupyter
