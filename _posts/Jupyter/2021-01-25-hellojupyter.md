@@ -100,11 +100,3 @@ plt.show()
 <p align="center">
   <img src="/assets/img/jupyter/hellojupyter_4_0.png" alt="df"/>
 </p>  
-
-    
-
-
-
-```python
-
-```
