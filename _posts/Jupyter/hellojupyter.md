@@ -1,6 +1,6 @@
 ---
 title: "Jupyter test"
-layout: jupyter
+layout: single
 use_math: true
 author_profile: true
 read_time: true
@@ -12,8 +12,9 @@ categories:
 tag:
     - Jupyter
 ---
-# Hello Jupyter
 
+# Hello Jupyter
+---
 
 ```python
 import pandas as pd
