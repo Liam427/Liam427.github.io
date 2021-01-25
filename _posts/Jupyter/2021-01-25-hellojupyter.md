@@ -1,6 +1,8 @@
 ---
 title: "Jupyter test"
 layout: jupyter
+classes: wide
+search: true
 use_math: true
 author_profile: true
 read_time: true
