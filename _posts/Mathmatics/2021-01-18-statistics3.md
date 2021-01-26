@@ -19,6 +19,7 @@ tag:
 
 # 이항분포
 ---  
+
 **이산형 확률변수가 가지는 확률분포 중에서 앞으로 계속 공부해나갈 Machine Learning / Deep Learning 에서 가장 활용도가 높은 확률분포는 이항분포(binomial distribution)이다.**  
 
 ## 베르누이 시행  

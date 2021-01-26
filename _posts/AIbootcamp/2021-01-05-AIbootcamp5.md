@@ -19,6 +19,7 @@ tag:
 </p>  
 
 # 다섯번째 Diary  
+---  
 
 #### **[codestates](https://codestates.com/)의 AI Bootcamp는 4번의 수업을 하고 그 4번을 정리하는 시간인 Sprint Challenge(스챌) 라는 일종의 Quiz를 본다.**  
 **저번주 첫번째부터 네번째 까지의 수업을 월요일에 스챌을 하였고 아직 피드백을 받진 않았지만 아마도 고쳐야 할 점이 수두룩 할 것같다. 왜냐하면 만만치 않았기 때문이다.  
