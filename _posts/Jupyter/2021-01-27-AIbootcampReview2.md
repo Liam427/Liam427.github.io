@@ -20,8 +20,9 @@ tag:
   <img src="/assets/img/post/AIbootcamp.jpg" alt="AI Bootcamp"/>
 </p>  
 
-# AI Bootcamp Section1 Review  
+# AI Bootcamp Section1 Review2  
 ---  
+
 ### 2. Statistics(Hypothesis Test)
 
 * week2에서는 통계학을 배웠는데 그 중에서도 가설검정 하는걸 위주로 배웠기 때문에 소제목을 Hypothesis Test라고 지었다.  
@@ -59,10 +60,10 @@ print("The T-statistic is %.3f and the p-value is %.3f" % tTestResult1)
 ```
 
 
+    
 <p align="center">
   <img src="/images/2021-01-27-AIbootcampReview2_files/2021-01-27-AIbootcampReview2_4_0.png" alt="Review2"/>
 </p>  
-    
     
 
 
@@ -96,7 +97,7 @@ print("The T-statistic is %.3f and the p-value is %.3f" % tTestResult2)
     
 <p align="center">
   <img src="/images/2021-01-27-AIbootcampReview2_files/2021-01-27-AIbootcampReview2_7_0.png" alt="Review2"/>
-</p>
+</p>  
     
 
 
@@ -717,7 +718,7 @@ plt.show();
     
 <p align="center">
   <img src="/images/2021-01-27-AIbootcampReview2_files/2021-01-27-AIbootcampReview2_27_0.png" alt="Review2"/>
-</p>
+</p>  
     
 
 
@@ -828,7 +829,6 @@ print(expected)
 ```python
 
 ```
-
 
 <p align="center">
     <a href="https://codestates.com" target = "_blank">

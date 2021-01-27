@@ -20,7 +20,7 @@ tag:
   <img src="/assets/img/post/AIbootcamp.jpg" alt="AI Bootcamp"/>
 </p>  
 
-# AI Bootcamp Section1 Review  
+# AI Bootcamp Section1 Review1   
 ---  
 내가 section1을 학습하며 배운 내용을 토대로 백지복습을 하려 한다.  
 알고 있는 내용들은 이미 블로그에 포스팅을 해 놓았고, github에 fork했으니,  
