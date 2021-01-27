@@ -33,12 +33,12 @@ tag:
     그 이유중에 하나는 나는 앞으로 금융권이나, 핀테크쪽에서 데이터를 만져보고 싶다고 부끄럽지만 생각을 하고 있기때문에  
     plotly가 많이 매력적이게 다가 왔다.  
 
-```pyton
+```python
 # 일단 plotly를 설치 하겠다. chart_studio를 설치하면 plotly가 설치 된다.  
 # cufflinks를 설치해주면 pandas에서 바로 plotly로 넘겨 시각화 해준다.  
 
-!pip install chart_studio  
-!pip install cufflinks  
+pip install chart_studio  
+pip install cufflinks  
 ```  
 
 ```python  
