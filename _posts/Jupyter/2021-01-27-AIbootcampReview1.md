@@ -1,5 +1,5 @@
 ---
-title: " AI Bootcamp Section1 Review"
+title: " AI Bootcamp Section1 Review1"
 layout: single
 use_math: true
 author_profile: true
@@ -20,7 +20,7 @@ tag:
   <img src="/assets/img/post/AIbootcamp.jpg" alt="AI Bootcamp"/>
 </p>  
 
-# # AI Bootcamp Section1 Review  
+# AI Bootcamp Section1 Review  
 ---  
 내가 section1을 학습하며 배운 내용을 토대로 백지복습을 하려 한다.  
 알고 있는 내용들은 이미 블로그에 포스팅을 해 놓았고, github에 fork했으니,  
@@ -71,7 +71,7 @@ df.head()
 df.iplot(kind='line')
 ```  
 <p align="center">
-  <img src="/images/2021-01-27-AIbootcampReview1/plotly1.PNG" alt="plotly"/>
+  <img src="/images/2021-01-27-AIbootcampReview1_files/plotly1.PNG" alt="Review1"/>
 </p>  
 
 **2) bar plot**  
@@ -79,28 +79,28 @@ df.iplot(kind='line')
 df.iplot(kind='bar')
 ```  
 <p align="center">
-  <img src="/images/2021-01-27-AIbootcampReview1/plotly2.PNG" alt="plotly"/>
+  <img src="/images2021-01-27-AIbootcampReview1_files/plotly2.PNG" alt="Review1"/>
 </p>  
 
 ```python
 df.iplot(kind='bar', barmode='stack')
 ```  
 <p align="center">
-  <img src="/images/2021-01-27-AIbootcampReview1/plotly3.PNG" alt="plotly"/>
+  <img src="/images/2021-01-27-AIbootcampReview1_files/plotly3.PNG" alt="Review1"/>
 </p>  
 
 ```python
 df['OJY.BD'].iplot(kind='bar')
 ```  
 <p align="center">
-  <img src="/images/2021-01-27-AIbootcampReview1/plotly4.PNG" alt="plotly"/>
+  <img src="/images/2021-01-27-AIbootcampReview1_files/plotly4.PNG" alt="Review1"/>
 </p>  
 
 ```python
 df.iplot(kind='barh', barmode='stack')
 ```  
 <p align="center">
-  <img src="/images/2021-01-27-AIbootcampReview1/plotly5.PNG" alt="plotly"/>
+  <img src="/images/2021-01-27-AIbootcampReview1_files/plotly5.PNG" alt="Review1"/>
 </p>  
 
 **3) area chart**  
@@ -108,14 +108,14 @@ df.iplot(kind='barh', barmode='stack')
 df.iplot(kind='area')
 ```  
 <p align="center">
-  <img src="/images/2021-01-27-AIbootcampReview1/plotly6.PNG" alt="plotly"/>
+  <img src="/images/2021-01-27-AIbootcampReview1_files/plotly6.PNG" alt="Review1"/>
 </p>  
 
 ```python
 df.iplot(kind='area', fill=True)
 ```  
 <p align="center">
-  <img src="/images/2021-01-27-AIbootcampReview1/plotly7.PNG" alt="plotly"/>
+  <img src="/images/2021-01-27-AIbootcampReview1_files/plotly7.PNG" alt="Review1"/>
 </p>  
 
 
@@ -123,3 +123,11 @@ df.iplot(kind='area', fill=True)
     scatter, bar, box, spread, ratiom, heatmap, surface, histogram, bubble, bubble3d, scatter3d, scattergeo, ohlc, candle, pie, horoplet   
 * plotly 세부 설정이 있지만, 포스팅이 너무 길어질것 같아 다음에 자세하게 다루겠다.
 
+
+<p align="center">
+    <a href="https://codestates.com" target = "_blank">
+        <img src="https://i.imgur.com/RDAD11M.png" 
+        width="300" height="300"
+        alt="codestates"/>
+    </a>
+</p> 
