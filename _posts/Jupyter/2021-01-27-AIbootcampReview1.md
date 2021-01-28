@@ -9,9 +9,10 @@ share: true
 related: true
 categories:
     - AI Bootcamp
+    - Jupyter Notebook
 tag:
     - AI Bootcamp
-    - Diary
+    - Jupyter Notebook
     - Post
     - Codestates
 ---
