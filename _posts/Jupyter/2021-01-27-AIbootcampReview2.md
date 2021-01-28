@@ -838,7 +838,7 @@ print(expected)
   * 업데이트된 믿음, P(A|X)는 증거 X가 주어진 상황에서 A의 확률로 볼 수 있다. 이를 사후확률이라고 한다.  
   * 빈도주의자의 추정은 변동성이 크고, 신뢰 구간이 더 넓은 반면, 베이지안은 사전확률을 도입하고 확률을 돌려줌으로써 불확실성을 유지한다.  
 * 사전확률과 사후확률과 관련된 베이즈 정리는 다음과 같다.
-  * $P(A|X)\quad =\quad \frac { P(X|A)P(A) }{ P(X) }$
+  * $P(A|X) =\frac {P(X|A)P(A)}{P(X)}$
 
 <p align="center">
     <a href="https://codestates.com" target = "_blank">
