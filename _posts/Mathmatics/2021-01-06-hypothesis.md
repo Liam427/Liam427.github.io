@@ -11,7 +11,7 @@ categories:
     - Mathmatics
 tag:
     - Post
-    - Mathmatics
+    - Statistics
 ---  
 <p align="center">
   <img src="/assets/img/post/mathmatics.jpg" alt="Mathmatics"/>
