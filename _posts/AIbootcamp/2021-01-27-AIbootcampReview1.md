@@ -12,6 +12,9 @@ categories:
     - Jupyter Notebook
 tag:
     - AI Bootcamp
+    - AI Bootcamp Projet
+    - Project Riveiw
+    - Plotly
     - Jupyter Notebook
     - Post
     - Codestates

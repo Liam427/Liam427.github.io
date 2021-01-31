@@ -12,6 +12,14 @@ categories:
     - Jupyter Notebook
 tag:
     - AI Bootcamp
+    - AI Bootcamp Project
+    - One-sample t-test
+    - Two-sample t-test
+    - One-sample Chi-square test
+    - Two-sample Chi-square test
+    - ANOVA
+    - Bayesian
+    - Project Riveiw
     - Jupyter Notebook
     - Post
     - Codestates
