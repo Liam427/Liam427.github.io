@@ -402,3 +402,9 @@ div#header-container {
   span.ansicyan {
     color: #0086b3;
   }
+
+  /* notebook cell scroll*/
+  .jupyter-nb-prompt.fold {
+    max-height: 300px;
+    overflow: auto;
+}

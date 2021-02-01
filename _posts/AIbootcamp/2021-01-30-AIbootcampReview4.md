@@ -58,8 +58,9 @@ from sklearn import datasets
 iris = datasets.load_iris()
 df_iris = iris.data
 print(df_iris)
-```
 
+```
+<div class="jupyter-nb-prompt fold">
     [[5.1 3.5 1.4 0.2]
      [4.9 3.  1.4 0.2]
      [4.7 3.2 1.3 0.2]
@@ -210,7 +211,7 @@ print(df_iris)
      [6.5 3.  5.2 2. ]
      [6.2 3.4 5.4 2.3]
      [5.9 3.  5.1 1.8]]
-    
+</div>
 
 여기서 각 row는 하나의 데이터 sample을 나타내고. 각 column은 feature를 나타내며 순서대로 `sepal length(꽃받침의 길이)`, `sepal width(꽃받침의 넓이)`, `petal length(꽃임의 길이)`, `petal width(꽃잎의 넓이)`를 의미한다. 이번 포스팅에서는 `sepal length`와 `width`두 가지 feature만을 고려하도록 하겠다. 데이터로부터 feature만을 뽑아내어 산점도를 그려보도록 하겠다.
 
