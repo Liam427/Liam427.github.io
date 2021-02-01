@@ -58,8 +58,8 @@ from sklearn import datasets
 iris = datasets.load_iris()
 df_iris = iris.data
 print(df_iris)
-
 ```
+
 <div class="jupyter-nb-prompt fold">
     [[5.1 3.5 1.4 0.2]
      [4.9 3.  1.4 0.2]
