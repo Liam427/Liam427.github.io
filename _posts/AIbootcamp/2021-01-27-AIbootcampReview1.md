@@ -26,7 +26,7 @@ tag:
 
 # AI Bootcamp Section1 Review1   
 ---  
-내가 section1을 학습하며 배운 내용을 토대로 백지복습을 하려 한다.  
+내가 section 1 을 학습하며 배운 내용을 토대로 백지복습을 하려 한다.  
 알고 있는 내용들은 이미 블로그에 포스팅을 해 놓았고, github에 fork했으니,  
 내가 모르고 있었거나 좀 더 공부 하고 싶은 내용들을 적어 보겠다.  
 아쉬운 점은 아직 jekyll blog와 github등 어려움이 있어 plotly를 올리지 못했고, 이미지로 대체 하겠다.  
