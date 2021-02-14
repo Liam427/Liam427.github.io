@@ -23,7 +23,7 @@ tag:
 
 `_includes/mathjax_support.html` 파일을 생성한 후 아래 코드를 입력합니다.  
 
-```
+```python
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
     TeX: {
@@ -52,7 +52,7 @@ MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
 
 `_layouts/default.html` 파일을 열어 `<head>` 태그 아래 부분에 아래 코드를 추가합니다.  
 
-```
+```python
 {% if page.use_math %}
   {% include mathjax_support.html %}
 {% endif %}
@@ -61,7 +61,7 @@ MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
 
 마크다운 파일에 YAML Front Matter부분에 `use_math: true` 를 추가합니다.  
 
-```
+```python
 ---
 title: "MathJax로 수학식 표현하기"
 use_math: true
@@ -73,7 +73,7 @@ tags:
 
 #### 4. MathJax 표현한 예제  
 
-```
+```python
 In N-dimensional simplex noise, the squared kernel summation radius $r^2$ is $\frac 1 2$
 for all values of N. This is because the edge length of the N-simplex $s = \sqrt {\frac {N} {N + 1}}$
 divides out of the N-simplex height $h = s \sqrt {\frac {N + 1} {2N}}$.
