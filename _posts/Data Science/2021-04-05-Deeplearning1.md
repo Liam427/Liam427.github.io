@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning"
+title: "Optimization, SGD, Momentum, AdaGrad, Adam"
 layout: single
 use_math: true
 author_profile: true
