@@ -14,6 +14,9 @@ tag:
     - Finance
     - Book Review
 ---  
+<p align="center">
+  <img src="/assets/img/post/portfoliowithpython.jpg" alt="Finance"/>
+</p> 
 # 1. NPV와 IRR
 
 투자 세계에서 순현재가치(Net Present Value, NPV)와 내부수익률(Internal Rate of Return, IRR)은 그들만의 언어다.  
@@ -189,7 +192,7 @@ print('GeoMean is {:.2%}'.format(geomean))
     GeoMean is 6.97%
     
 
-## 지배원리
+## 2.3 지배원리
 
 * 금융시장의 여러 자산(주식, 채권, 파생상품 등)을 조합하면 무수히 많은 포트폴리오가 나올 것이다. 이 포트폴리오를 '기대수익률'과 '위험'이라는 기준으로 재단 할 수 있다.  
 * 포트폴리오부터 얻는 기대수익률은 클수록 좋고, 표준편차 또는 분산으로 표현하는 위험은 작을수록 좋다.  
@@ -197,12 +200,14 @@ print('GeoMean is {:.2%}'.format(geomean))
 
 * Example  
 
+<p align="center">
 |투자대상|기대수익률(%)|표준편차(%)|
 |:---:|:---:|:---:|
 |A|7.0|2.0|
 |B|7.0|3.0|
 |C|9.0|2.0|
 |D|9.0|3.0|  
+</p>
 
 * 투자자가 합리적일 경우 위험이 동일 하다면 기대수익률이 가장 높은 포트폴리오를 선택할 것이며, 시대수익률이 동일하다면 위험이 가장 낮은 포트폴리오를 선택할 것이다.
 * 포트폴리오 A와 B는 기대수익률이 같지만 포트폴리오 A의 표준편차가 낮기 때문에 포트폴리오 B를 지배하게 된다.
