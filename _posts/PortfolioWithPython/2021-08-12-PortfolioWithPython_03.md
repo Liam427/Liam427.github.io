@@ -1,5 +1,5 @@
 ---
-title: "Porfolio With Python 2"
+title: "Porfolio With Python 3"
 layout: single
 use_math: true
 author_profile: true
