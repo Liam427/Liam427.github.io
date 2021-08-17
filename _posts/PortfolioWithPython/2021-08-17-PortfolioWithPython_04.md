@@ -635,7 +635,7 @@ plt.show();
 
 
 <p align="center">
-  <img src="/images/2021-08-17-PortfolioWithPython_04_files/2021-08-17-PortfolioWithPython_04_24_0.png" alt="portfolio"/>
+  <img src="/images/2021-08-17-PortfolioWithPython_04_files/2021-08-17-PortfolioWithPython_04_0.png" alt="portfolio"/>
 </p>   
 
 
