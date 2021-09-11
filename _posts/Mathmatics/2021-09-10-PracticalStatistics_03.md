@@ -107,7 +107,7 @@ tag:
 
 ### 3.4.3 제 1종과 제 2종 오류
 
-![error1](http://piramvill2.org/wp/wp-content/uploads/2019/10/%EC%A0%9C1%EC%A2%85%EC%98%A4%EB%A5%98-768x169.png)  
+![error1](http://www.ktword.co.kr/img_data/5094_1.JPG)  
 ![error2](https://media.vlpt.us/images/rsj9987/post/4af0b298-4f08-4b43-86b4-af180120c5ee/Typeoferror.png)  
 * 보통은 1종 오류를 최소화하도록 가설을 설계한다.
 
